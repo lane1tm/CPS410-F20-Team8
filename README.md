@@ -3,5 +3,5 @@ Law Website
 ## Group MEmbers
 | Name  | Role |
 | ------------- | ------------- |
-| Trevor Lane  | Content Cell  |
-| Malick Bocoum  | Content Cell  |
+| Trevor Lane  | Creator  |
+| Malick Bocoum  | Creator  |
