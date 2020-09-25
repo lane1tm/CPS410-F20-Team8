@@ -6,6 +6,6 @@ Law Website
 | Trevor Lane  | Creator  |
 | Malick Bocoum  | Creator  |
 
-##Key Features
+## Key Features
 * One key feature
 * Two key feature
