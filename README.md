@@ -5,3 +5,5 @@ Law Website
 | ------------- | ------------- |
 | Trevor Lane  | Creator  |
 | Malick Bocoum  | Creator  |
+
+Key Features
