@@ -5,6 +5,7 @@
   <title>Chipp-E-Law</title>
   <link  href="style.css" rel="stylesheet">
 </head>
+    <script type ="text/javascript"  src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <body>
 <div id="top">
     <img id="logo" src="Logo.png">
@@ -12,25 +13,30 @@
 
      <div id ="connex">
  
-         <p> <u>Contact Us For farther Information</u></p>
+        <div id ="free"> <p> <u>Contact Us For farther Information :</u></p></div>
          <connex>
-<form action="/action_page.php">
+<form action="web.html">
   <label for="name">First name:</label><br>
   <input type="text" id="fname" ><br>
-  <label for="lname">Last name:</label><br>
+  <label for="lname" >Last name:</label><br>
   <input type="text" id="lname"><br><br>
     
     <label for="">Subject:</label><br>
   <input type="text"  value=" "><br><br>
     
     <label for="lname"> Ask Question:</label><br>
-  <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea><br><br>
+  <textarea id="subject" name="subject" placeholder="Write something.." style="height:500px " style="width:1000px"></textarea><br><br>
     
-  <input type="submit" value="Submit">
+    <div id="click"><input type="submit" value="Submit"></div>
 </form> 
+              <script type="text/javascript">
+             $("#click").click(function(){
+                 
+                alert(" Successfuly send");
+             });
+             </script>
          </connex>
     </div>
-   
     </div>
 </body>
 

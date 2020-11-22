@@ -76,9 +76,7 @@
     
         
        
-        .class{
-            clear:both;
-        }
+
         
         #bar{
             
@@ -370,7 +368,7 @@
             
         }
 #connex{
-            margin-top: 25px;
+            margin-top: 50px;
             width: 500px;
             height: 450px;
             margin-right: 100px;
@@ -381,5 +379,25 @@
             
         }
         
-
-        
+.checkbox{
+    color: yellow;
+}
+#free{
+    color: darkred;
+}
+#Back{
+   
+    margin-left: 315px;
+    color:darkblue;
+    
+}
+#calendar{
+    margin-left: 270px;
+}
+#input{
+    font-size: 70px;
+    padding: 10px 10px 15px 10px; 
+}
+#label{
+    color: black;
+}
